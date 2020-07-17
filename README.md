@@ -1,5 +1,7 @@
 ### Hello, I'm [Leonid!](https://stesel.netlify.app/) 👋. ![](https://visitor-badge.glitch.me/badge?page_id=stesel.stesel)
 
+<br />
+
 <a href="https://github.com/stesel">
   <img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
@@ -19,7 +21,8 @@
   <img align="left" alt="Source True"  width="32px" src="https://cdn-images-1.medium.com/max/184/1*aeRKl9HWumMWtfzi-y875Q@2x.png"> 
 </a>
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=stesel&show_icons=true&title_color=0466D6&icon_color=41C463&text_color=576069)](https://github.com/anuraghazra/github-readme-stats)
