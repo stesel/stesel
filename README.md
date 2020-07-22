@@ -1,4 +1,4 @@
-### Hello, I'm [Leonid!](https://stesel.netlify.app/) 👋. ![](https://visitor-badge.glitch.me/badge?page_id=stesel.stesel)
+### Hello, I'm [Leonid!](https://stesel.netlify.app/) 👋. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stesel.stesel)
 
 <br />
 
