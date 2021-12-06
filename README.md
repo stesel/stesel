@@ -7,9 +7,11 @@
 &#160;
 [![Twitter](icons/twitter.svg)](https://twitter.com/Stesel23)
 &#160;
-[![Medium](icons/medium.svg)](https://medium.com/source-true)
+[![Medium](icons/medium.svg)](https://medium.com/@stesel23)
 &#160;
 [![CodeSandbox](icons/codesandbox.svg)](https://codesandbox.io/u/stesel)
+&#160;
+[![SourceTrue](icons/sourcetrue.svg)](https://medium.com/source-true)
 <br/>
 <br/>
 <br/>
