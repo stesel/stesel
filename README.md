@@ -1,6 +1,5 @@
 ### Hello, I'm [Leonid!](https://stesel.netlify.app/) 👋. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stesel.stesel)
-
-<br />
+<br/>
 
 [![GitHub](icons/github.svg)](https://github.com/stesel)
 &#160;
@@ -14,5 +13,4 @@
 <br/>
 <br/>
 <br/>
-
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=stesel&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
