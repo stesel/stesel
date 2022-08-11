@@ -1,5 +1,6 @@
-[![Hey, I'm Leo!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f468-200d-1f4bb&text=Hey%252C%2520I%27m%2520Leo%21)](https://stesel.netlify.app/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=stesel.stesel&left_color=darkslategray&right_color=palevioletred)
+<br/>
+[`Hey, I'm Leo!`](https://stesel.netlify.app/)
 <br/>
 
 [![GitHub](icons/github.svg)](https://github.com/stesel)
